@@ -54,7 +54,7 @@ const Cadastro = () => {
 
                     <div className="text-center">
                         <span className="txt1">Já possui uma conta ?</span>
-                        <Link className="txt2" to="/">Acesse com email e senha.</Link>
+                        <Link className="txt2" to="/tela_de_login_e_cadastro">Acesse com email e senha.</Link>
                     </div>
                 </form>
             </div>
