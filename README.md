@@ -1,8 +1,11 @@
 ### Pratica de criação de tela de login e cadastro 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div>
+    - 💻 Esse projeto foi feito com auxilio do vídeo: https://www.youtube.com/watch?v=Bm50j2CqCXg feito pelo Jovem programador https://github.com/Rodrigo322
+    - 🦍 O projeto foi feito com o intuito de treinar o frontend do meu tcc
+</div>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Acesse o projeto por esse link
+<div>
+link: https://luuizfelipee.github.io/tela_de_login_e_cadastro/
+</div>
