@@ -1,7 +1,8 @@
 ### Pratica de criação de tela de login e cadastro 
 
 <div>
-    - 💻 Esse projeto foi feito com auxilio do vídeo: https://www.youtube.com/watch?v=Bm50j2CqCXg feito pelo Jovem programador https://github.com/Rodrigo322
+    - 💻 Esse projeto foi feito com auxilio do vídeo: https://www.youtube.com/watch?v=Bm50j2CqCXg</br>
+    - ✨ video feito por Jovem programador: https://github.com/Rodrigo322</br>
     - 🦍 O projeto foi feito com o intuito de treinar o frontend do meu tcc
 </div>
 
