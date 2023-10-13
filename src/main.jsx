@@ -7,7 +7,7 @@ import Cadastro_routes from './routes/cadastro.jsx'
 
 const router = createBrowserRouter([
   {
-    path:"/",
+    path:"/tela_de_login_e_cadastro",
     element:<Login_routes/>
   },
   {
